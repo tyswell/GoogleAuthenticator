@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "1093916928987",
+    "project_id": "project-8477930567949511485"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093916928987:android:d6b24c599b45c448",
+        "android_client_info": {
+          "package_name": "com.eightunity.googleauthenticator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1093916928987-8b3v88kbe603ca0n54s7gemj7jeobu96.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eightunity.googleauthenticator",
+            "certificate_hash": "39F8E4310C265DA99E5363E4B31FE216E8A2535E"
+          }
+        },
+        {
+          "client_id": "1093916928987-hldb60j277fh7komenthpsq3mkrhtgog.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eightunity.googleauthenticator",
+            "certificate_hash": "494203831DA2EAF2F83D8CD6FB8D57243FB17486"
+          }
+        },
+        {
+          "client_id": "1093916928987-djc3tntall6bm4jdb4i84h07pjbtsajj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5D4S7e2B5hbyoqBn9DU8cOVBFmBElMuE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
